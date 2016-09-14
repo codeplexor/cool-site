@@ -1,5 +1,25 @@
-.blue{
-  background-color: blue;
+.top {
+  background-color: cornflowerblue;
   color: white;
-  padding: 5px;
+  padding: .5%;
+  border: 2px solid black;
+}
+
+hr {
+  border: 5px solid lightblue;
+}
+
+.ads {
+  margin-top: 4%;
+  padding-right: 6%;
+}
+.ads h5{
+  margin-bottom: 2px;
+}
+
+.base {
+  background-color: cornflowerblue;
+  background-color: cornflowerblue;
+  padding: 1%;
+  border: 2px solid black;
 }
