@@ -1,5 +1,5 @@
 .top {
-  background-color: cornflowerblue;
+  background-color: blue;
   color: white;
   padding: .5%;
   border: 2px solid black;
@@ -18,8 +18,8 @@ hr {
 }
 
 .base {
-  background-color: cornflowerblue;
-  background-color: cornflowerblue;
+  background-color: blue;
+  background-color: blue;
   padding: 1%;
   border: 2px solid black;
 }
